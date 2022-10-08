@@ -15,6 +15,7 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://cloud.google.com/docs/"><img align="left" alt="GCP" title="GCP (Google Cloud Platfrom)" width="21px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" /></a>
+  <a href="https://go.dev/doc/"><img align="left" alt="GCP" title="GO language" width="21px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" /></a>
   <br>
   <br>
   
